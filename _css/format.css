@@ -1,0 +1,41 @@
+body {
+    background-color: #C0CCC1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: blue;
+}
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav li {
+    margin: 5px 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    padding: 20px;
+}
+
+a:hover {
+    color: red;
+}

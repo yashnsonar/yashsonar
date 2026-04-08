@@ -1,2 +1,0 @@
-# yashsonar
-My personal repository.

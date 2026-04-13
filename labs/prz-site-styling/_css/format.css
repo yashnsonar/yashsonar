@@ -1,0 +1,146 @@
+/* CSS Formatting Document */
+
+/* Overall Page Formatting */
+body {
+  color: #000000;
+  background-color: #FFFFFF;
+  font: 12pt Georgia, "Times New Roman", Times, serif;
+  border: thick solid black;
+  margin: 15px;
+}
+
+p {
+  padding: 0.5em;
+}
+
+h1, h2, h3 {
+  padding-bottom: 0.5em;
+}
+
+ul, ol {
+  padding-left: 1.5em;
+  padding-bottom: 0.5em;
+}
+
+a:link {
+  color: #084048;
+}
+
+a:visited {
+  color: #10A7A5;
+}
+
+a:hover {
+  color: #CC6600;
+}
+
+dt {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: orangered;
+  margin: 5px;
+}
+
+dd {
+  margin-left: 50px;
+  padding-bottom: 1em;
+}
+
+/* Header Formatting */
+header {
+  height: 99px;
+  padding-left: 250px;
+  padding-top: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  background-image: url("../_images/przlogo.gif");
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+header h1,
+header h2 {
+  font-family: Garamond, serif;
+}
+
+header h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+header h2 {
+  font-size: 1.6em;
+  font-style: italic;
+  text-align: center;
+}
+
+/* Navigation Formatting */
+nav {
+  font-family: "Gill Sans", Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  padding: 10px 20px;
+}
+
+nav li {
+  display: inline;
+  padding: 5px 1em;
+  border-right: thin solid #40A7A5;
+}
+
+nav li:last-child {
+  border-right: none;
+}
+
+/* Main Section Formatting */
+main {
+  padding: 20px;
+  background-image: url("../_images/prz_watermark.gif");
+  background-position: center right;
+  background-repeat: no-repeat;
+}
+
+main h1 {
+  font-size: 1.6em;
+}
+
+main h2 {
+  font-size: 1.3em;
+}
+
+main h3 {
+  font-size: 1.1em;
+}
+
+main h1,
+main h2,
+main h3 {
+  font-family: "Gill Sans", Arial, Helvetica, sans-serif;
+}
+
+ul.bigger li {
+  font-size: 1.2em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+main ol {
+  padding-bottom: 0.8em;
+  list-style-type: upper-roman;
+}
+
+main ol ol {
+  list-style-type: lower-alpha;
+}
+
+/* Footer Formatting */
+footer {
+  background-color: #A1D1D1;
+  padding: 15px;
+}
+
+footer p {
+  font-size: 0.8em;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.8em;
+}

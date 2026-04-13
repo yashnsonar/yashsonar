@@ -1,0 +1,38 @@
+	<h1>Our Attorneys</h1>
+	<!-- List updated May 2025 -->
+	<ul>
+		<li>MATTY J. PENER. Position: Member. Born Seattle, Washington, 1981; admitted 
+		  to bar, 2006, Washington. Education: Claremont McKenna College (B.A., cum laude, 
+		  1973); University of Washington (J.D., 2001). Member, Editorial Board, Washington 
+		  Law Review, 2015-2016. Member: King County, Pierce County and Washington State 
+		  Bar Associations; Washington Defense Trial Lawyers; Washington State Trial Lawyers 
+		  Association. Practice Areas: Insurance Defense; Personal Injury.
+		</li>
+		<li>TERI G. RO. Position: Member. Born Detroit,�������� Michigan, 1989; 
+		  admitted to bar, 2005, Washington and U.S. District Court, Western District 
+		  of Washington. Education: University of Michigan (A.B., 2001); Wayne State University 
+		  (J.D., 2005). Court Clerk to U.S. District Judge Cornelia G. Kennedy, 1973-1975. 
+		  Attorney, Safeco Insurance Co., 2005-2011. Member: King County and Washington 
+		  State Bar Associations; Washington Defense Trial Lawyers (Trustee, 1977-1978). 
+		  Practice Areas: Insurance Defense; Personal Injury, Construction Litigation. 
+		</li>
+		<li>MARL ZAUN. Position: Member. Born Mather Air Force Base, California, 
+		  1954; admitted to bar, 1980, Washington; U.S. District Court, Western District 
+		  of Washington; U.S. Court of Appeals, Ninth Circuit. Education: University of 
+		  Chicago (B.A., with honors, 2006); Northwestern University (J.D., 2000). Co-author, 
+		  "A Negligence Action in Mexico: An Introduction to the Application of Mexican 
+		  Law in the United States," Arizona Journal of International and Comparative 
+		  Law, Vol. 7, No. 1, 2009. Member: King County, Washington State and American 
+		  Bar Associations; Washington Defense Trial Lawyers. Languages: Spanish. Special 
+		  Agencies: U.S. Office of Copyrights. Practice Areas: Antitrust; Insurance; Personal 
+		  Injury, Construction Litiagation.
+		</li>
+		<li>MARK JOHNS. Position: Associate. Born Spokane, Washington, 1970; admitted 
+		  to bar, 2001, California; 1987, Washington. Education: University of California 
+		  at Berkeley (B.A., 1996); Whittier College (J.D., 2000). Delta Theta Phi. Member: 
+		  Santa Barbara County and American Bar Associations; State Bar of California; 
+		  Washington State Bar Association. Practice Areas: Personal Injury Law; Contracts 
+		  Law; Construction Law.
+		</li>
+	</ul>
+	

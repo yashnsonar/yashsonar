@@ -1,0 +1,147 @@
+
+body {
+	color: #000000;
+	background-color: #FFFFFF;
+	font: 12pt Georgia, "Times New Roman", Times, serif;
+    margin:15px;
+    border:solid black thick;
+}
+p{
+    padding:.5em;
+}
+h1, h2, h3{
+    padding-bottom:.5em;
+}
+ul, ol{
+    padding-left:1.5em;
+    padding-bottom: .5em;
+}
+a {
+    color:#084048;
+}
+a:visited {
+    color:#10A7A5;
+}
+a:hover {
+    color:#CC6600;
+}
+dt {
+    font-size:1.1em;
+    font-weight: bold;
+    color:orangered;
+    margin:5px;
+}
+dd {
+    margin-left:50px;
+    padding-bottom: 1em;
+}
+
+/* Header Formatting */
+
+header{
+    margin:10px 0 0 10px;
+    padding:10px 0 0 250px;
+    height: 99px;
+    background-image: url(../images/przlogo.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+header h1, header h2{
+    font-family: Garamond, serif; 
+
+}
+header h1{
+    font-size:2em;
+}
+
+header h2{
+    font-size: 1.6em;
+    text-align: center;
+    font-style:italic;
+}
+
+/* Navigation Formatting */
+nav{
+    font-family: Gil Sans, Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+
+nav li {
+    padding:5px 1em;
+}
+nav>ul{
+    border-right:solid thin #40a7a5;
+}
+
+nav#client {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.7em;
+  line-height: 1.1em;
+  padding: 0.5em;
+  border: thin dotted black;
+  background-color: #D7EAE4;
+}
+
+nav#client li {
+  display: inline;
+  padding: 0 0 0 0.5em;
+}
+
+nav#client time,
+nav#client ul {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+nav ul {
+  border-right: thin solid #40A7A5;
+}
+
+/* Main Section Formatting */
+main{
+    padding:20px;
+    background-image:url(../images/prz_watermark.gif);
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+main h1, main h2, main h3{
+    font-family: Gil Sans, Arial, Helvetica, sans-serif;
+    font-size:1.6em;
+}
+main h2{
+    font-size: 1.3em;
+}
+main h3{
+    font-size: 1.1em;
+}
+
+ul.bigger li {
+    font-size:1.2em;
+    padding: 0.5em
+}
+
+ol{
+    list-style: upper-roman;
+}
+ol ol{
+    list-style: lower-alpha;
+}
+
+/* Footer Formatting */
+footer{
+    background-color: #A1D1D1;
+    padding:15px;
+}
+footer p{
+    font-size:0.8em;
+    font-weight: bold;
+    text-align:center;
+    line-height: 1.8em;
+    padding:0
+}
+
+
+
